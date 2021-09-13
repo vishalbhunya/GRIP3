@@ -16,4 +16,4 @@ Language : Python
 
 Dataset : http://bit.ly/w-data
 
-IDE : Google Colab
+IDE : Jupyter Notebook
